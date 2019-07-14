@@ -3,7 +3,7 @@ defmodule LC.MixProject do
 
   def project do
     [
-      app: :leet_code_ex,
+      app: :leet_code_elixir,
       version: "0.1.0",
       elixir: "~> 1.9",
       start_permanent: Mix.env() == :prod,
